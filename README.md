@@ -40,7 +40,42 @@ Generate a [gif](https://github.com/Platane/snk/raw/output/github-contribution-g
 
 Available as github action. It can automatically generate a new image each day. Which makes for great [github profile readme](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
 
+```yaml
+name: Pratik Gond
+located_in: India
+current_job: B.Tech Student | Aspiring ML Engineer
+education:
+  [
+    "B.Tech in Computer Science & Engineering (2nd Year)",
+    "Passionate about Machine Learning and Generative AI",
+    "Self-Taught Backend Developer",
+  ]
+company: Open to Opportunities
 
+fields_of_interests:
+  [
+    "Machine Learning",
+    "Deep Learning",
+    "Generative AI",
+    "Backend Development",
+    "Internet of Things (IoT)",
+    "Open Source Contribution",
+  ]
+
+technical_background:
+  [
+    "Built AI-powered RAG Chatbots using LangChain & CrewAI",
+    "Developed IoT-based Smart Parking System using NodeMCU",
+    "Worked on Speech Recognition & Text-to-Speech Projects",
+    "Built Twitter Automation Tools using Composio + CrewAI",
+    "Developed AI-Powered Coding Assistant in Streamlit",
+  ]
+
+currently_learning: ["Node.js", "Flutter", "React Native", "DSA"]
+2025_goals: ["Solve 450+ DSA Problems", "Master ML & GenAI", "Build 20+ Real-World Projects", "Contribute to Open Source"]
+hobbies: ["Gym & Fitness", "Exploring AI Tools", "Building Cool Projects", "Tech Blogging"]
+
+```
 ## Implementation
 
 [solver algorithm](./packages/solver/README.md)
