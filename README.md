@@ -10,10 +10,8 @@
 
 
 <h2 align="center">👋 Hey, I'm Pratik Gond</h2>
-<h4 align="center">🚀 An aspiring Machine Learning Engineer, passionate about building AI-powered products & backend systems.</h4>
-<h5 align="center">💡 "Code. Learn. Build. Repeat." — That's my mantra!</h5>
+<h4 align="center">An aspiring Machine Learning Engineer, passionate about building AI-powered products & backend systems.</h4>
 
----
 
 ## 📊 GitHub Stats & Languages  
 <p align="center">
