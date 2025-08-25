@@ -1,7 +1,7 @@
 # Hello Developers
 
 <p align="center" style="margin-bottom: 0;">
-  <a href="https://www.linkedin.com/in/pratikgond/"><img height="40" src="https://github.com/user-attachments/assets/93021f10-0082-4e89-9635-980f6d4ac1bb" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/pratikgond/"><img height="40" src="https://github.com/user-attachments/assets/3f3d8ec3-1402-4aec-9ecf-e137dc5faf0b" alt="LinkedIn"></a>
   <a href="https://www.pratikgond.vercel.app" style="margin: 0 20px;"><img height="40" src="https://github.com/user-attachments/assets/d8cd91d2-a846-4ff9-a967-6c0e516b9c58" alt="Portfolio"></a>
   <a href="https://x.com/PratikGond69428"><img height="40" src="https://github.com/user-attachments/assets/09ead742-11c4-422b-af48-75e22af6f1f2" alt="Twitter"></a>
 </p>
