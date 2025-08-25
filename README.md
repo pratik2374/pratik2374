@@ -41,6 +41,15 @@ fields_of_interests:
 
 hobbies: ["Gym & Fitness", "Exploring AI Tools", "Building Cool Projects", "Philosophy"]
 ```
+
+## 📊 GitHub Stats & Languages  
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pratik2374&show_icons=true&rank_icon=github&bg_color=30,0a0f1f,0d1b2a,1b263b&title_color=ffffff&text_color=b0bec5&icon_color=2196f3" alt="Pratik's GitHub Stats"/>
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Added space -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik2374&layout=compact&langs_count=8&bg_color=30,0a0f1f,0d1b2a,1b263b&title_color=ffffff&text_color=b0bec5&card_width=320" alt="Top Languages"/>
+</p>
+
 ## Tech Stack & Experience:
 
 - **Programming Languages:** Python, C, C++, Java, Markdown  
@@ -88,14 +97,6 @@ hobbies: ["Gym & Fitness", "Exploring AI Tools", "Building Cool Projects", "Phil
   <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="Cursor" width="45" height="45"/>
 </p>
 
-
-## 📊 GitHub Stats & Languages  
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pratik2374&show_icons=true&rank_icon=github&bg_color=30,0a0f1f,0d1b2a,1b263b&title_color=ffffff&text_color=b0bec5&icon_color=2196f3" alt="Pratik's GitHub Stats"/>
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Added space -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik2374&layout=compact&langs_count=8&bg_color=30,0a0f1f,0d1b2a,1b263b&title_color=ffffff&text_color=b0bec5&card_width=320" alt="Top Languages"/>
-</p>
 
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
