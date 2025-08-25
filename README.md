@@ -12,7 +12,8 @@
 <h2 align="center">👋 Hey, I'm Pratik Gond</h2>
 <h4 align="center">An aspiring Machine Learning Engineer, passionate about building AI-powered products & backend systems.</h4>
 
-### Feeding..
+## Feeding...
+
 ![Snake animation](https://raw.githubusercontent.com/pratik2374/pratik2374/output/github-contribution-grid-snake-dark.svg)
 
   
@@ -40,8 +41,8 @@ fields_of_interests:
 
 hobbies: ["Gym & Fitness", "Exploring AI Tools", "Building Cool Projects", "Philosophy"]
 ```
+## Tech Stack & Experience:
 
-**Tech Stack & Experience**  
 - **Programming Languages:** Python, C, C++, Java, Markdown  
 - **AI, ML & Generative AI:** LangChain, LangGraph, LangFlow, Agno(PhiData), Model Context Protocol (MCP), RAG, LLMs, Prompt Engineering, Fine-Tuning, Agentic AI, Human-in-the-Loop (HITL)  
 - **Backend Development & APIs:** Flask, REST APIs, CrewAI, OpenAI API, Multi-Agent AI Systems, Context-Aware Pipelines  
@@ -55,8 +56,9 @@ hobbies: ["Gym & Fitness", "Exploring AI Tools", "Building Cool Projects", "Phil
     - Karen → AI-based voice assistant with Python, LangChain, Selenium & SpeechRecognition.  
 - **Version Control & Collaboration:** Git, GitHub, Agile Development, Team-Based Workflows
 
-<h2 align="center">🚀 &nbsp;Some Tools, Technologies I learned and Used</h2>
+  
 
+<h2 align="center">🚀 &nbsp;Some Tools, Technologies I learned and Used</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
@@ -93,6 +95,7 @@ hobbies: ["Gym & Fitness", "Exploring AI Tools", "Building Cool Projects", "Phil
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik2374&layout=compact&langs_count=8&bg_color=30,0a0f1f,0d1b2a,1b263b&title_color=ffffff&text_color=b0bec5&card_width=320" alt="Top Languages"/>
 </p>
 
-
+##
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
 
 
