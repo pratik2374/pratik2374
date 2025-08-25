@@ -8,7 +8,6 @@
   <a href="https://x.com/PratikGond69428"><img height="40" src="https://github.com/user-attachments/assets/09ead742-11c4-422b-af48-75e22af6f1f2" alt="Twitter"></a>
 </p>
 
----
 
 <h2 align="center">👋 Hey, I'm Pratik Gond</h2>
 <h4 align="center">🚀 An aspiring Machine Learning Engineer, passionate about building AI-powered products & backend systems.</h4>
