@@ -12,7 +12,7 @@
 <h2 align="center">👋 Hey, I'm Pratik Gond</h2>
 <h4 align="center">An aspiring Machine Learning Engineer, passionate about building AI-powered products & backend systems.</h4>
 
-# Feeding..
+### Feeding..
 ![Snake animation](https://raw.githubusercontent.com/pratik2374/pratik2374/output/github-contribution-grid-snake-dark.svg)
 
   
