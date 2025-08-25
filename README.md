@@ -1,4 +1,6 @@
-# Hello Developers
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hello%20Developers&textBg=false&fontColor=D3D3D3"/>
+</p>
 
 <p align="center" style="margin-bottom: 0;">
   <a href="https://www.linkedin.com/in/pratikgond/"><img height="40" src="https://github.com/user-attachments/assets/3f3d8ec3-1402-4aec-9ecf-e137dc5faf0b" alt="LinkedIn"></a>
