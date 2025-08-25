@@ -1,16 +1,11 @@
 # Hello Developers
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pratikgond/">
-    <img height="40" src="https://github.com/user-attachments/assets/93021f10-0082-4e89-9635-980f6d4ac1bb" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.pratikgond.vercel.app">
-    <img height="40" src="https://github.com/user-attachments/assets/d8cd91d2-a846-4ff9-a967-6c0e516b9c58" alt="Portfolio"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/PratikGond69428">
-    <img height="40" src="https://github.com/user-attachments/assets/09ead742-11c4-422b-af48-75e22af6f1f2" alt="Twitter"/>
-  </a>
+<p align="center" style="margin-bottom: 0;">
+  <a href="https://www.linkedin.com/in/pratikgond/"><img height="40" src="https://github.com/user-attachments/assets/93021f10-0082-4e89-9635-980f6d4ac1bb" alt="LinkedIn"></a>
+  <a href="https://www.pratikgond.vercel.app" style="margin: 0 20px;"><img height="40" src="https://github.com/user-attachments/assets/d8cd91d2-a846-4ff9-a967-6c0e516b9c58" alt="Portfolio"></a>
+  <a href="https://x.com/PratikGond69428"><img height="40" src="https://github.com/user-attachments/assets/09ead742-11c4-422b-af48-75e22af6f1f2" alt="Twitter"></a>
 </p>
+
 
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
