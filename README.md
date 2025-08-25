@@ -1,7 +1,7 @@
 # Hello Developers
 
 <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://github.com/user-attachments/assets/e0850842-d84b-4d94-aa83-37f5e6fbb5d8"/>
+  <img height="50" src="https://github.com/user-attachments/assets/5e09db45-de55-421c-bc56-04bb33addb7b"/>
 </a>
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
