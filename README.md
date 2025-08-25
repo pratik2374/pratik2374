@@ -5,12 +5,12 @@
     <img height="40" src="https://github.com/user-attachments/assets/93021f10-0082-4e89-9635-980f6d4ac1bb" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/PratikGond69428">
-    <img height="40" src="https://github.com/user-attachments/assets/09ead742-11c4-422b-af48-75e22af6f1f2" alt="Twitter"/>
+  <a href="https://www.pratikgond.vercel.app">
+    <img height="40" src="https://github.com/user-attachments/assets/222dd52f-4c54-40f1-85bc-2df58798fb15" alt="Portfolio"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.pratikgond.vercel.app">
-    <img height="40" src="https://github.com/user-attachments/assets/a91335a0-714c-4d63-86d2-6b97209a00ce" alt="Portfolio"/>
+  <a href="https://x.com/PratikGond69428">
+    <img height="40" src="https://github.com/user-attachments/assets/09ead742-11c4-422b-af48-75e22af6f1f2" alt="Twitter"/>
   </a>
 </p>
 
