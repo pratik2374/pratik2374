@@ -18,7 +18,7 @@
 </a>
   
 
-![Snake animation](https://raw.githubusercontent.com/{pratik2374}/{pratik2374}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/pratik2374/pratik2374/output/github-contribution-grid-snake-dark.svg)
 
 ## A Little Bit About Me and My Interests 🧑‍💻
 
