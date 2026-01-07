@@ -45,10 +45,13 @@ hobbies: ["Gym & Fitness", "Exploring AI Tools", "Building Cool Projects", "Phil
 ## 📊 GitHub Stats & Languages  
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pratik2374&show_icons=true&rank_icon=github&bg_color=30,0a0f1f,0d1b2a,1b263b&title_color=ffffff&text_color=b0bec5&icon_color=2196f3" alt="Pratik's GitHub Stats"/>
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Added space -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik2374&layout=compact&langs_count=8&bg_color=30,0a0f1f,0d1b2a,1b263b&title_color=ffffff&text_color=b0bec5&card_width=320" alt="Top Languages"/>
+
+![Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratik2374&show_icons=true&rank_icon=github&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratik2374&layout=compact&theme=tokyonight)
+
 </p>
+
 
 ## Tech Stack & Experience:
 
