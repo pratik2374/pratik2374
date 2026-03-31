@@ -47,18 +47,6 @@ hobbies: ["Gym & Fitness", "Exploring AI Tools", "Building Cool Projects", "Phil
 <p align="center">
   <picture>
     <source
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratik2374&theme=github_dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratik2374&theme=github"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratik2374&theme=github" alt="Pratik's GitHub Profile Details"/>
-  </picture>
-  <br/>
-  <picture>
-    <source
       srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pratik2374&theme=github_dark"
       media="(prefers-color-scheme: dark)"
     />
