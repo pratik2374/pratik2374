@@ -45,9 +45,41 @@ hobbies: ["Gym & Fitness", "Exploring AI Tools", "Building Cool Projects", "Phil
 ## 📊 GitHub Stats & Languages  
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pratik2374&theme=github_dark" alt="Pratik's GitHub Stats"/>
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Added space -->
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pratik2374&theme=github_dark" alt="Top Languages"/>
+  <picture>
+    <source
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratik2374&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratik2374&theme=github"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratik2374&theme=github" alt="Pratik's GitHub Profile Details"/>
+  </picture>
+  <br/>
+  <picture>
+    <source
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pratik2374&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pratik2374&theme=github"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pratik2374&theme=github" alt="Pratik's GitHub Stats"/>
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
+    <source
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pratik2374&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pratik2374&theme=github"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pratik2374&theme=github" alt="Top Languages"/>
+  </picture>
 </p>
 
 ## Tech Stack & Experience:
