@@ -86,7 +86,7 @@ Currently in my 3rd year at **NIT Kurukshetra (IT, 2027)**. 1200+ DSA problems s
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pratik2374&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pratik2374&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
